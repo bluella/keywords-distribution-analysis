@@ -52,6 +52,8 @@ Workflow
 
 Few things were done:
 
+- Datesets were created with `Google Ads Reports <https://support.google.com/google-ads/answer/6201327?hl=en>`_
+
 - Visual comparison of monthly distributions
 
 - Visual comparison of distributions of a few keywords groups
