@@ -77,10 +77,9 @@ Those were picked because:
 Results
 ===========
 
-Via doing various testing on multiple timeframes, we are ensuring robustness of our results.
-Distributions from Account X send us mixed signals, so we fail to reject null Hypothesis, that
-random variables come from the same distribution.
-Distributions from Account Y are clearly different ones. Null is reject by every test. Graphs suggest the same.
+- Via doing various testing on the multiple timeframes, we are ensuring robustness of our results.
+- Distributions from Account X send us mixed signals, so we fail to reject null Hypothesis, that random variables come from the same distribution.
+- Distributions from Account Y are clearly different ones. Null is reject by every test. Graphs suggest the same.
 
 Releases
 ========
