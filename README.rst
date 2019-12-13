@@ -66,7 +66,7 @@ Done with four tests for three timeframes (August, September, October):
 
     - `Wilcoxon Rank-Sum Test <https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test>`_ , `Scipy docs <https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wilcoxon.html>`_
 
-    - `Kolmogorv - Smirnov test <https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test>`_ , `Scipy docs <https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html>`_
+    - `Kolmogorov - Smirnov test <https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test>`_ , `Scipy docs <https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html>`_
 
     - `Kruskal - Wallis test <https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance>`_ , `Scipy docs <https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kruskal.html>`_
 
